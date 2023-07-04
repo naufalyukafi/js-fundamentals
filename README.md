@@ -10,7 +10,6 @@
 - Functions
 - Modules
 - Classes & Proxies
-- ES6
 - Prototypes
 - Iterators & Iterables
 - Destructuring & Spread
